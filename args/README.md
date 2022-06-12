@@ -1,0 +1,1 @@
+This code shows how to capture the parameters passed to the Python script from the command line

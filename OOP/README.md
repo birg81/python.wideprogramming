@@ -1,0 +1,1 @@
+This code shows how to do OOP in Python. It is shown, encapsulation, information hidding, inheritance, polymorphism, overload, overriding

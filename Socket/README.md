@@ -1,0 +1,1 @@
+Here you will find some Python code showing how to create udp and tcp sockets. Inside the folders you will find both the client program and the server
